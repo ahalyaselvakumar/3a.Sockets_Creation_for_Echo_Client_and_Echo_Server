@@ -11,8 +11,8 @@ Sockets Links.
 ## PROGRAM
 ## CLIENT:
 ```
-Developed by: RIYA P L
-Reg no: 212223240141
+Developed by: AHALYA S
+Reg no: 212223230006
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
